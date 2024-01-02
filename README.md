@@ -1,1 +1,1 @@
-read
+Achievements celebrate and showcase your journey on GitHub. You can take a trip down memory lane as you reminisce on some of your earlier work (yes, certain achievements will surface events dating back to the beginning!)
